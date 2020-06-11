@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coronavirus</string>
+    <string name="g">TODO</string>
+    <string name="nombre">Nombre:</string>
+    <string name="virus">Virus</string>
+    <string name="indicaciones">Indicaciones</string>
+    <string name="s_ntomas">Síntomas</string>
+    <string name="todo">TODO</string>
+</resources>
